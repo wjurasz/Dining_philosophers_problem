@@ -1,6 +1,6 @@
 
 # PL  
-# 🍝 Problem Pięciu Filozofów – Symulacja
+# Problem Pięciu Filozofów – Symulacja
 
 ## 📋 Wymagania  
 Python 3.10+  
@@ -36,7 +36,7 @@ Symulacja zakleszczenia w trybie semaforowym
 ---
 
 # ENG  
-# 🍝 Dining Philosophers Problem – Simulation
+# Dining Philosophers Problem – Simulation
 
 ## 📋 Requirements  
 Python 3.10+  
